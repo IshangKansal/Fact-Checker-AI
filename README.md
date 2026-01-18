@@ -1,5 +1,8 @@
 # AI Fact-Checking Web App
 
+🔗 **Live App**: https://factcheckerai.streamlit.app/
+📂 **GitHub Repository**: https://github.com/IshangKansal/Fact-Checker-AI
+
 This project is a **Fact-Checking Web Application** built as part of an assessment.  
 It ingests a PDF document, extracts factual claims, verifies them against **live web data**, and flags each claim as **Verified, Inaccurate, or False**, along with explanations and sources.
 
