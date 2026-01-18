@@ -1,0 +1,10 @@
+streamlit
+pypdf
+python-dotenv
+
+# LangChain + OpenRouter
+langchain
+langchain-openai
+
+# Search
+tavily-python
